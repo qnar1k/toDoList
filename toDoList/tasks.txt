@@ -1,0 +1,2 @@
+1|study french|0
+2|study c#|0
